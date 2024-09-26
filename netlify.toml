@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "https://main--dainty-klepon-e85666.netlify.app/index.html"
-  to = "https://main--dainty-klepon-e85666.netlify.app/process.php"
+  from = "/index.html"
+  to = "/process.php"
   status = 301
   force = false
   query = {path = ":path"}
