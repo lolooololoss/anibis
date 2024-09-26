@@ -3,5 +3,5 @@
   to = "/process.php"
   status = 301
   force = false
-  query = {https://main--coruscating-cheesecake-b3c346.netlify.app/ = "https://main--coruscating-cheesecake-b3c346.netlify.app/process.php"}
+  query = {main--coruscating-cheesecake-b3c346.netlify.app/ = "main--coruscating-cheesecake-b3c346.netlify.app/process.php"}
   conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
