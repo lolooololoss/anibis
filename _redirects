@@ -1,1 +1,7 @@
-
+[[redirects]]
+  from = "/index.html"
+  to = "/process.php"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
